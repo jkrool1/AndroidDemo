@@ -1,0 +1,2 @@
+rootProject.name='TAB_VP_FG'
+include ':app'

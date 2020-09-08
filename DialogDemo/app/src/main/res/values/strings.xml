@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DialogDemo</string>
+    <string name="download_text">是否下载图片,地址为：</string>
+    <string name="choose_download_text">下载图片</string>
+    <string name="download_sure">确定</string>
+    <string name="download_false">取消</string>
+</resources>

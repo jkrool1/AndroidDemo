@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Handler_Callback</string>
+    <string name="text">休眠中</string>
+    <string name="show_imageView">显示图片</string>
+    <string name="notSleep">未休眠</string>
+    <string name="btnCallBackSleep">回调休眠</string>
+    <string name="btnBroadcastSleep">本地广播休眠</string>
+</resources>

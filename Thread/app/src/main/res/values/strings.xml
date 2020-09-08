@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Thread</string>
+    <drawable name="clr_normal">#ff6501</drawable>
+    <drawable name="clr_pressed">#0081ff</drawable>
+</resources>
